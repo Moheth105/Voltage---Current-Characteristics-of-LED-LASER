@@ -38,13 +38,12 @@ Key points:
 ---
 
 ## TABULATION
-
-
+<img width="956" height="1280" alt="image" src="https://github.com/user-attachments/assets/3b4000ed-95b7-4c53-9e7c-c818a26ae987" />
 
 ---
 
 ## MODEL GRAPH
-
+<img width="915" height="1280" alt="image" src="https://github.com/user-attachments/assets/9a93f20a-efe3-40ed-aa08-7dbca1a84a02" />
 
 ---
 
